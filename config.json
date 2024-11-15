@@ -1,0 +1,12 @@
+{
+    "config" : {
+        "host": "mysql.xilyor.com",
+        "user": "deeper_user"
+    },
+    "settings": {
+        "smtp_server": "smtp-mail.outlook.com",
+        "smtp_port": 587,
+        "email_server": "fahmi.djobbi@tek-up.de",
+        "password_email_server": ""
+    }
+}
