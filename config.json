@@ -1,7 +1,7 @@
 {
     "config" : {
-        "host": "mysql**.xi*lyor*.com",
-        "user": "dee**per_user*****"
+        "host": "",
+        "user": ""
     },
     "settings": {
         "smtp_server": "smtp-mail.outlook.com",
